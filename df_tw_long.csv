@@ -1,0 +1,121 @@
+Category,Category_Type,Education,Salary,Real Salary
+All Employees,Total,Junior High,875.0,2049.780380673499
+Male,Gender,Junior High,875.0,2049.780380673499
+Female,Gender,Junior High,906.25,2122.98682284041
+Small & Medium Enterprises,Enterprise Size,Junior High,875.0,2049.780380673499
+Large Enterprises & Others,Enterprise Size,Junior High,937.5,2196.1932650073204
+"Agriculture, Forestry, Fishing & Animal Husbandry",Industry,Junior High,,
+Mining & Quarrying,Industry,Junior High,,
+Manufacturing,Industry,Junior High,875.0,2049.780380673499
+Electricity & Gas Supply,Industry,Junior High,,
+Water Supply & Waste Management,Industry,Junior High,,
+Construction,Industry,Junior High,875.0,2049.780380673499
+Wholesale & Retail Trade,Industry,Junior High,875.0,2049.780380673499
+Transportation & Storage,Industry,Junior High,,
+Accommodation & Food Service,Industry,Junior High,906.25,2122.98682284041
+"Publishing, Audio-Visual & Information Communication",Industry,Junior High,,
+Finance & Insurance,Industry,Junior High,,
+Real Estate,Industry,Junior High,,
+"Professional, Scientific & Technical Services",Industry,Junior High,,
+Administrative & Support Services,Industry,Junior High,875.0,2049.780380673499
+Public Administration & Defense; Compulsory Social Security,Industry,Junior High,,
+Education,Industry,Junior High,,
+Health Care & Social Work,Industry,Junior High,,
+"Arts, Entertainment & Recreation",Industry,Junior High,,
+Other Services,Industry,Junior High,875.0,2049.780380673499
+All Employees,Total,Senior High,906.25,2122.98682284041
+Male,Gender,Senior High,937.5,2196.1932650073204
+Female,Gender,Senior High,906.25,2122.98682284041
+Small & Medium Enterprises,Enterprise Size,Senior High,906.25,2122.98682284041
+Large Enterprises & Others,Enterprise Size,Senior High,968.75,2269.3997071742315
+"Agriculture, Forestry, Fishing & Animal Husbandry",Industry,Senior High,875.0,2049.780380673499
+Mining & Quarrying,Industry,Senior High,,
+Manufacturing,Industry,Senior High,906.25,2122.98682284041
+Electricity & Gas Supply,Industry,Senior High,968.75,2269.3997071742315
+Water Supply & Waste Management,Industry,Senior High,937.5,2196.1932650073204
+Construction,Industry,Senior High,906.25,2122.98682284041
+Wholesale & Retail Trade,Industry,Senior High,906.25,2122.98682284041
+Transportation & Storage,Industry,Senior High,1062.5,2489.0190336749633
+Accommodation & Food Service,Industry,Senior High,937.5,2196.1932650073204
+"Publishing, Audio-Visual & Information Communication",Industry,Senior High,937.5,2196.1932650073204
+Finance & Insurance,Industry,Senior High,937.5,2196.1932650073204
+Real Estate,Industry,Senior High,906.25,2122.98682284041
+"Professional, Scientific & Technical Services",Industry,Senior High,906.25,2122.98682284041
+Administrative & Support Services,Industry,Senior High,937.5,2196.1932650073204
+Public Administration & Defense; Compulsory Social Security,Industry,Senior High,937.5,2196.1932650073204
+Education,Industry,Senior High,906.25,2122.98682284041
+Health Care & Social Work,Industry,Senior High,906.25,2122.98682284041
+"Arts, Entertainment & Recreation",Industry,Senior High,906.25,2122.98682284041
+Other Services,Industry,Senior High,875.0,2049.780380673499
+All Employees,Total,Junior College,1000.0,2342.606149341142
+Male,Gender,Junior College,1000.0,2342.606149341142
+Female,Gender,Junior College,1000.0,2342.606149341142
+Small & Medium Enterprises,Enterprise Size,Junior College,937.5,2196.1932650073204
+Large Enterprises & Others,Enterprise Size,Junior College,1093.75,2562.225475841874
+"Agriculture, Forestry, Fishing & Animal Husbandry",Industry,Junior College,,
+Mining & Quarrying,Industry,Junior College,,
+Manufacturing,Industry,Junior College,968.75,2269.3997071742315
+Electricity & Gas Supply,Industry,Junior College,,
+Water Supply & Waste Management,Industry,Junior College,,
+Construction,Industry,Junior College,937.5,2196.1932650073204
+Wholesale & Retail Trade,Industry,Junior College,968.75,2269.3997071742315
+Transportation & Storage,Industry,Junior College,1187.5,2781.8448023426063
+Accommodation & Food Service,Industry,Junior College,968.75,2269.3997071742315
+"Publishing, Audio-Visual & Information Communication",Industry,Junior College,1031.25,2415.8125915080527
+Finance & Insurance,Industry,Junior College,1062.5,2489.0190336749633
+Real Estate,Industry,Junior College,968.75,2269.3997071742315
+"Professional, Scientific & Technical Services",Industry,Junior College,968.75,2269.3997071742315
+Administrative & Support Services,Industry,Junior College,937.5,2196.1932650073204
+Public Administration & Defense; Compulsory Social Security,Industry,Junior College,1000.0,2342.606149341142
+Education,Industry,Junior College,968.75,2269.3997071742315
+Health Care & Social Work,Industry,Junior College,1062.5,2489.0190336749633
+"Arts, Entertainment & Recreation",Industry,Junior College,937.5,2196.1932650073204
+Other Services,Industry,Junior College,937.5,2196.1932650073204
+All Employees,Total,University,1062.5,2489.0190336749633
+Male,Gender,University,1062.5,2489.0190336749633
+Female,Gender,University,1062.5,2489.0190336749633
+Small & Medium Enterprises,Enterprise Size,University,968.75,2269.3997071742315
+Large Enterprises & Others,Enterprise Size,University,1187.5,2781.8448023426063
+"Agriculture, Forestry, Fishing & Animal Husbandry",Industry,University,968.75,2269.3997071742315
+Mining & Quarrying,Industry,University,1031.25,2415.8125915080527
+Manufacturing,Industry,University,1062.5,2489.0190336749633
+Electricity & Gas Supply,Industry,University,1343.75,3147.8770131771594
+Water Supply & Waste Management,Industry,University,1000.0,2342.606149341142
+Construction,Industry,University,1000.0,2342.606149341142
+Wholesale & Retail Trade,Industry,University,968.75,2269.3997071742315
+Transportation & Storage,Industry,University,1125.0,2635.4319180087846
+Accommodation & Food Service,Industry,University,1000.0,2342.606149341142
+"Publishing, Audio-Visual & Information Communication",Industry,University,1093.75,2562.225475841874
+Finance & Insurance,Industry,University,1187.5,2781.8448023426063
+Real Estate,Industry,University,1000.0,2342.606149341142
+"Professional, Scientific & Technical Services",Industry,University,1031.25,2415.8125915080527
+Administrative & Support Services,Industry,University,1000.0,2342.606149341142
+Public Administration & Defense; Compulsory Social Security,Industry,University,1281.25,3001.464128843338
+Education,Industry,University,1093.75,2562.225475841874
+Health Care & Social Work,Industry,University,1250.0,2928.2576866764275
+"Arts, Entertainment & Recreation",Industry,University,968.75,2269.3997071742315
+Other Services,Industry,University,968.75,2269.3997071742315
+All Employees,Total,Graduate School,1625.0,3806.734992679356
+Male,Gender,Graduate School,1687.5,3953.147877013177
+Female,Gender,Graduate School,1500.0,3513.909224011713
+Small & Medium Enterprises,Enterprise Size,Graduate School,1312.5,3074.6705710102488
+Large Enterprises & Others,Enterprise Size,Graduate School,1718.75,4026.3543191800877
+"Agriculture, Forestry, Fishing & Animal Husbandry",Industry,Graduate School,1031.25,2415.8125915080527
+Mining & Quarrying,Industry,Graduate School,,
+Manufacturing,Industry,Graduate School,1812.5,4245.97364568082
+Electricity & Gas Supply,Industry,Graduate School,1343.75,3147.8770131771594
+Water Supply & Waste Management,Industry,Graduate School,1187.5,2781.8448023426063
+Construction,Industry,Graduate School,1187.5,2781.8448023426063
+Wholesale & Retail Trade,Industry,Graduate School,1406.25,3294.289897510981
+Transportation & Storage,Industry,Graduate School,1250.0,2928.2576866764275
+Accommodation & Food Service,Industry,Graduate School,1062.5,2489.0190336749633
+"Publishing, Audio-Visual & Information Communication",Industry,Graduate School,1843.75,4319.180087847731
+Finance & Insurance,Industry,Graduate School,1500.0,3513.909224011713
+Real Estate,Industry,Graduate School,1125.0,2635.4319180087846
+"Professional, Scientific & Technical Services",Industry,Graduate School,1468.75,3440.7027818448023
+Administrative & Support Services,Industry,Graduate School,1250.0,2928.2576866764275
+Public Administration & Defense; Compulsory Social Security,Industry,Graduate School,1406.25,3294.289897510981
+Education,Industry,Graduate School,1468.75,3440.7027818448023
+Health Care & Social Work,Industry,Graduate School,1312.5,3074.6705710102488
+"Arts, Entertainment & Recreation",Industry,Graduate School,1062.5,2489.0190336749633
+Other Services,Industry,Graduate School,1187.5,2781.8448023426063

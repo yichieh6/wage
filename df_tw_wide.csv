@@ -1,0 +1,25 @@
+Category,Category_Type,Junior High,Senior High,Junior College,University,Graduate School
+All Employees,Total,875.0,906.25,1000.0,1062.5,1625.0
+Male,Gender,875.0,937.5,1000.0,1062.5,1687.5
+Female,Gender,906.25,906.25,1000.0,1062.5,1500.0
+Small & Medium Enterprises,Enterprise Size,875.0,906.25,937.5,968.75,1312.5
+Large Enterprises & Others,Enterprise Size,937.5,968.75,1093.75,1187.5,1718.75
+"Agriculture, Forestry, Fishing & Animal Husbandry",Industry,,875.0,,968.75,1031.25
+Mining & Quarrying,Industry,,,,1031.25,
+Manufacturing,Industry,875.0,906.25,968.75,1062.5,1812.5
+Electricity & Gas Supply,Industry,,968.75,,1343.75,1343.75
+Water Supply & Waste Management,Industry,,937.5,,1000.0,1187.5
+Construction,Industry,875.0,906.25,937.5,1000.0,1187.5
+Wholesale & Retail Trade,Industry,875.0,906.25,968.75,968.75,1406.25
+Transportation & Storage,Industry,,1062.5,1187.5,1125.0,1250.0
+Accommodation & Food Service,Industry,906.25,937.5,968.75,1000.0,1062.5
+"Publishing, Audio-Visual & Information Communication",Industry,,937.5,1031.25,1093.75,1843.75
+Finance & Insurance,Industry,,937.5,1062.5,1187.5,1500.0
+Real Estate,Industry,,906.25,968.75,1000.0,1125.0
+"Professional, Scientific & Technical Services",Industry,,906.25,968.75,1031.25,1468.75
+Administrative & Support Services,Industry,875.0,937.5,937.5,1000.0,1250.0
+Public Administration & Defense; Compulsory Social Security,Industry,,937.5,1000.0,1281.25,1406.25
+Education,Industry,,906.25,968.75,1093.75,1468.75
+Health Care & Social Work,Industry,,906.25,1062.5,1250.0,1312.5
+"Arts, Entertainment & Recreation",Industry,,906.25,937.5,968.75,1062.5
+Other Services,Industry,875.0,875.0,937.5,968.75,1187.5
