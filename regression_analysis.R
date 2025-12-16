@@ -19,7 +19,7 @@ for (pkg in required_packages) {
 }
 
 # 2. Load Data -----------------------------------------------------------------
-df <- read_csv("df_combined.csv", show_col_types = FALSE)
+df <- read_csv("data/df_combined.csv", show_col_types = FALSE)
 head(df)
 
 # ============================================================================
